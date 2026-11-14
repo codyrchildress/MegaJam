@@ -1,0 +1,24 @@
+# Git is the team-sharing layer (docs, art, Verse).
+# The UEFN project itself is versioned by Unreal Revision Control (.lore).
+
+# Unreal Revision Control internals - never commit
+.lore/
+
+# UEFN binary assets - owned by Unreal Revision Control
+*.uasset
+*.umap
+__ExternalActors__/
+__ExternalObjects__/
+
+# Unreal generated / local folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# OS junk
+Desktop.ini
+Thumbs.db
+.DS_Store

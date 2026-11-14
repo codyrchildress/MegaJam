@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/theworststudio@fortnite.com/ThisIsYourShot",
+	"EnableVerseAssetReflection": true,
+	"EnabledByDefault": false,
+	"Installed": false,
+	"Hidden": true,
+	"ExplicitlyLoaded": true,
+	"FortReleaseVersion": "Future",
+	"builtInAutoActivate": false,
+	"VersionName": "",
+	"FriendlyName": "ThisIsYourShot",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"ValkyrieSettings":
+	{
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	},
+	"VerseVersion": 1,
+	"VerseAPI": 1,
+	"UGCLocalizationTargetName": "ThisIsYourShot",
+	"EnableSceneGraph": true
+}
